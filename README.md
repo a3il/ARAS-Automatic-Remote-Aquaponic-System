@@ -12,7 +12,7 @@ Credits to Nidhin Chandran,Nandu,Joyal Kusoms.
 
 ## Screenshots
 
-![App Screenshot][WhatsApp Image 2023-03-22 at 8 36 28 PM](https://user-images.githubusercontent.com/111580618/226962870-1a454d62-a540-4bd5-a64a-6d218d7b5b1c.jpeg)
+(https://user-images.githubusercontent.com/111580618/226962870-1a454d62-a540-4bd5-a64a-6d218d7b5b1c.jpeg)
 ![WhatsApp Image 2023-03-22 at 8 36 29 PM](https://user-images.githubusercontent.com/111580618/226962961-3cc73d46-76f8-4d49-b054-08bf50d72a24.jpeg)
 
 
@@ -49,6 +49,7 @@ All codes and app apk are uploaded to repo directory.
 ## Authors
 
 - [@NidhinChandran](https://github.com/Nidhinchandran47)
+- [@JOYALKUSMOS](https://github.com/JOYALKUSMOS)
 
 
 ## Acknowledgements
