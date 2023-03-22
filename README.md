@@ -6,7 +6,8 @@ This project was implemented on a hackathon competetion and has won 1st prize(IE
 Credits to Nidhin Chandran,Nandu,Joyal Kusoms.
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo]![Screenshot 2023-03-22 211259](https://user-images.githubusercontent.com/111580618/226973538-8ecf5f72-6a5d-4721-9284-6bebdc22b367.png)
+
 
 
 ## Screenshots
