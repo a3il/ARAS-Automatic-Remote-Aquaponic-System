@@ -10,9 +10,9 @@ Credits to Nidhin Chandran,Nandu,Joyal Kusoms.
 
 
 
-## Screenshots
+## Product
 
-(https://user-images.githubusercontent.com/111580618/226962870-1a454d62-a540-4bd5-a64a-6d218d7b5b1c.jpeg)
+![WhatsApp Image 2023-03-22 at 8 36 55 PM](https://user-images.githubusercontent.com/111580618/226971556-535a4323-9a88-4940-af3a-6016d059b1f5.jpeg)
 ![WhatsApp Image 2023-03-22 at 8 36 29 PM](https://user-images.githubusercontent.com/111580618/226962961-3cc73d46-76f8-4d49-b054-08bf50d72a24.jpeg)
 
 
