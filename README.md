@@ -10,7 +10,7 @@ Credits to Nidhin Chandran,Nandu,Joyal Kusoms.
 
 
 
-## Screenshots
+## Product
 
 ![WhatsApp Image 2023-03-22 at 8 36 28 PM](https://user-images.githubusercontent.com/111580618/226974114-1ea8ed89-a9a5-4f23-83da-b6aa584e4894.jpeg)
 
@@ -36,6 +36,10 @@ Credits to Nidhin Chandran,Nandu,Joyal Kusoms.
 ## Implementation
 
 All codes and app apk are uploaded to repo directory.
+
+## Circuit
+
+Arduino UNO micro controller along wiht an ESP8266 is used as the brains for this project.Consist of moistuire sensor,Humidity,Peltier Modules and Many relays to switch on required pump(motor),farm light and etc.All modules are interfaced using serial i2c interface.
 
 
     
