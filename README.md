@@ -12,7 +12,8 @@ Credits to Nidhin Chandran,Nandu,Joyal Kusoms.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![WhatsApp Image 2023-03-22 at 8 36 28 PM (1)](https://user-images.githubusercontent.com/111580618/226973995-dc2a3ca0-5d02-4e0d-ba65-27df1b392855.jpeg)
+
 
 
 ## Features
@@ -39,7 +40,11 @@ All codes and app apk are uploaded to repo directory.
     
 ## Demo
 
-Insert gif or link to demo
+![WhatsApp Image 2023-03-22 at 8 36 29 PM (1)](https://user-images.githubusercontent.com/111580618/226973907-ef9b3848-3078-44f2-bee8-e4bb80666f61.jpeg)
+![WhatsApp Image 2023-03-22 at 8 36 29 PM](https://user-images.githubusercontent.com/111580618/226973913-bdf3b823-a8c5-478c-8fd8-cfebfc8e5ac0.jpeg)
+![WhatsApp Image 2023-03-22 at 8 36 55 PM](https://user-images.githubusercontent.com/111580618/226973921-926efe31-6f78-4da5-8db5-df39b09b0af4.jpeg)
+![WhatsApp Image 2023-03-22 at 8 36 56 PM (1)](https://user-images.githubusercontent.com/111580618/226973929-aaa30f13-7a26-4406-ab84-d632df8c7f4f.jpeg)
+
 
 
 ## Authors
