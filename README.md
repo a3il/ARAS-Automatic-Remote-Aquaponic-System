@@ -28,6 +28,8 @@ Credits to Nidhin Chandran,Nandu,Joyal Kusoms.
 - Business Model
 - Financially Viable
 - Open Source App
+- [ARAS.pdf](https://github.com/a3il/ARAS-Automatic-Remote-Aquaponic-System/files/11042345/ARAS.pdf)
+
 
 ## Circuit
 
