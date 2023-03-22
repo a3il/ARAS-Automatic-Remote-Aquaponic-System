@@ -12,7 +12,8 @@ Credits to Nidhin Chandran,Nandu,Joyal Kusoms.
 
 ## Screenshots
 
-![WhatsApp Image 2023-03-22 at 8 36 28 PM (1)](https://user-images.githubusercontent.com/111580618/226973995-dc2a3ca0-5d02-4e0d-ba65-27df1b392855.jpeg)
+![WhatsApp Image 2023-03-22 at 8 36 28 PM](https://user-images.githubusercontent.com/111580618/226974114-1ea8ed89-a9a5-4f23-83da-b6aa584e4894.jpeg)
+
 
 
 
