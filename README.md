@@ -14,10 +14,8 @@ Credits to Nidhin Chandran,Nandu,Joyal Kusoms.
 
 ##V2.0
 
-
-https://github.com/a3il/ARAS-Automatic-Remote-Aquaponic-System/assets/111580618/f9fb3d14-e887-46b4-9eda-55adf88f6095
 ![IMG_1484](https://github.com/a3il/ARAS-Automatic-Remote-Aquaponic-System/assets/111580618/e6289d02-1cf5-4023-b0bc-58254b3eee86)
-
+https://github.com/a3il/ARAS-Automatic-Remote-Aquaponic-System/assets/111580618/f9fb3d14-e887-46b4-9eda-55adf88f6095
 https://github.com/a3il/ARAS-Automatic-Remote-Aquaponic-System/assets/111580618/580baf23-72d7-4978-a5e9-289989c6d846
 
 
