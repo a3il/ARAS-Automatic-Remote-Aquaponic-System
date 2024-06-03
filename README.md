@@ -12,7 +12,7 @@ Credits to Nidhin Chandran,Nandu,Joyal Kusoms.
 
 ## Product
 
-##V2.0
+## V2.0
 
 ![IMG_1484](https://github.com/a3il/ARAS-Automatic-Remote-Aquaponic-System/assets/111580618/e6289d02-1cf5-4023-b0bc-58254b3eee86)
 
@@ -24,7 +24,7 @@ https://github.com/a3il/ARAS-Automatic-Remote-Aquaponic-System/assets/111580618/
 
 
 
-##V2.0!
+## V2.0!
 
 ![WhatsApp Image 2023-03-22 at 8 36 28 PM](https://user-images.githubusercontent.com/111580618/226974114-1ea8ed89-a9a5-4f23-83da-b6aa584e4894.jpeg)
 
